@@ -1,0 +1,1 @@
+APT_DETAIL_ENDPOINT = "http://openapi.molit.go.kr/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc/getRTMSDataSvcAptTradeDev?ServiceKey=Mjvsqf0%2F73T%2FN1diXP1VhTEY%2Bknj2G%2FYzYCo5X9Dpcov0f7aCdyw4Zh9%2B6aSac5IVJzoS0h8eUcVoHLVyIsD9Q%3D%3D&"
